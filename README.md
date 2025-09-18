@@ -51,7 +51,7 @@ CodeBrainStarter/
 - Fast for summarizing, rewriting, and querying your notes.
 - No setup required beyond the CLI.
 
-When you’re ready for automations, Planning mode, and Rube MCP workflows, upgrade to the [[CodeBrain Pro Kit](https://www.yourcodebrain.com/buy)](https://www.yourcodebrain.com/buy). It includes:
+When you’re ready for automations, Planning mode, and Rube MCP workflows, upgrade to the [[CodeBrain Pro Kit](https://www.yourcodebrain.com/)](https://www.yourcodebrain.com/). It includes:
 - Claude Code workflows + Planning mode scripts
 - Rube MCP pipelines for Drive
 - Premium templates, dashboards, and community support (7-day trial included)
@@ -63,4 +63,4 @@ Released under the MIT License – see `LICENSE`.
 ## Questions & support
 
 - Open an issue or discussion in this repo.
-- Join the [CodeBrain Community](https://www.yourcodebrain.com/community) (trial included with your CodeBrain purchase) for office hours, walkthroughs, and advanced templates.
+- Join the [CodeBrain Community](https://www.yourcodebrain.com/) (trial included with your CodeBrain purchase) for office hours, walkthroughs, and advanced templates.
